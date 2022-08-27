@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-driveinn-dev-104402-authRole",
+      "UnauthRoleArn": "arn:aws:iam::182975693586:role/amplify-driveinn-dev-104402-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::182975693586:role/amplify-driveinn-dev-104402-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-driveinn-dev-104402-deployment",
+      "UnauthRoleName": "amplify-driveinn-dev-104402-unauthRole",
+      "StackName": "amplify-driveinn-dev-104402",
+      "StackId": "arn:aws:cloudformation:us-east-1:182975693586:stack/amplify-driveinn-dev-104402/370a71c0-25f5-11ed-af41-0acf858d4283",
+      "AmplifyAppId": "d20zb7hpugd7sw"
+    }
+  }
+}
